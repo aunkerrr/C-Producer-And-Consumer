@@ -13,7 +13,7 @@
                     0
                 ],
                 "autoRotation": "InTabletMode",
-                "automatic Brightness": false,
+                "automaticBrightness": false,
                 "brightness": 0.05,
                 "colorPowerTradeoff": "PreferEfficiency",
                 "colorProfileSource": "sRGB",
